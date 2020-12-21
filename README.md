@@ -1,2 +1,2 @@
 # Pictures
-For picture storage in markdown files
+For Picture Storage in Documents
